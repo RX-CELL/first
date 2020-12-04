@@ -15,4 +15,4 @@ i'm a good man
 no, u are not
 '''
 6. [链接到“莫烦pytorch教程”](https://mofanpy.com/tutorials/machine-learning/torch/)
-7.![](http://img.mp.itc.cn/upload/20160722/1f2af93a3acb4adc89dd06d08f2263a6_th.jpg)
+7. ![](http://img.mp.itc.cn/upload/20160722/1f2af93a3acb4adc89dd06d08f2263a6_th.jpg)
