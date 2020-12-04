@@ -10,9 +10,19 @@ this is my first repository, so i'll be ok with GitHub.
 4. ' hello word 引用代码 '
 5. 多段代码引用：
 '''
-hello
-i'm a good man
-no, u are not
+hello！
+ i'm a good man~
+ no, u are not~
 '''
 6. [链接到“莫烦pytorch教程”](https://mofanpy.com/tutorials/machine-learning/torch/)
-7. ![](http://img.mp.itc.cn/upload/20160722/1f2af93a3acb4adc89dd06d08f2263a6_th.jpg)
+![](http://img.mp.itc.cn/upload/20160722/1f2af93a3acb4adc89dd06d08f2263a6_th.jpg)
+7. 未完待续···
+8. 表格
+| name | age | add |
+|------|-----|-----|
+| a    | 1   | q   |
+| b   |    2 |  w  |
+|c |    3|     e   |
+带括号的图片：
+![][2]
+[2]: http://img.mp.itc.cn/upload/20160722/1f2af93a3acb4adc89dd06d08f2263a6_th.jpg
